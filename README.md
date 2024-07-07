@@ -1,4 +1,8 @@
 # Marketing-Insights-for-a-Beverage-Brand
+Link for live dashboard - 
+
+https://app.powerbi.com/view?r=eyJrIjoiZTY1NmI2MWEtZjdmNS00NWUyLWJhOGItNjYyZmEwZjI5OTUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 The project is about an imaginary beverage brand named CodeX.
 
 CodeX
