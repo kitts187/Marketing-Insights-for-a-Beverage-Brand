@@ -16,7 +16,7 @@ They require specific insights and expect the Data Analyst to provide meaningful
 
 Recommendations for CodeX
 
-What immediate improvements can we bring to the product?
+1. What immediate improvements can we bring to the product?
 
 Increase availability.
 
@@ -28,7 +28,7 @@ Incorporate more natural ingredients, reduce sugar content, and add more flavors
 
 Enhance the positive response rate.
 
-What should be the ideal price of our product? 
+2. What should be the ideal price of our product? 
 
 Consumers expect the price range to be between 50 and 150.
 
@@ -36,7 +36,7 @@ In cities such as Ahmedabad, Chennai, Hyderabad, Kolkata, Lucknow, Mumbai, and P
 
 In other cities, consumers are willing to pay up to 150.
 
-What kind of marketing campaigns, offers, and discounts we can run?
+3. What kind of marketing campaigns, offers, and discounts we can run?
 
 We can experiment with different pricing strategies in various cities. 
 
@@ -52,7 +52,7 @@ Influencer Marketing
 
 E-commerce
 
-Who can be a brand ambassador, and why? 
+4. Who can be a brand ambassador, and why? 
 
 We have to consider certain things while choosing an influencer.
 
@@ -64,7 +64,7 @@ Relevancy
 
 Virat Kohli would be a great choice as our brand ambassadors, considering these these factors.
 
-Who should be our target audience, and why?
+5. Who should be our target audience, and why?
 
 Statistics clearly show that most of our consumers are between the ages of 15 and 30.
 
