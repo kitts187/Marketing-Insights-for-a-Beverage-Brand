@@ -13,7 +13,7 @@ To gather consumer insights, CodeX conducted a survey in these cities, obtaining
 
 The survey focused on consumer behavior, including purchasing habits, feedback on existing energy drinks in the market, as well as opinions on pricing and packaging.
 
-The expected insights file is attached at the end of this article.
+The expected insights file and survey questions file is attached at the end of this article.
 
 The Marketing Team has tasked their Data Analyst with transforming the survey results into actionable insights. 
 They require specific insights and expect the Data Analyst to provide meaningful recommendations based on the data and external factors.
